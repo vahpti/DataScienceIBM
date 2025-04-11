@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-IBM Data Science peer 1
+IBM Data Science peer
